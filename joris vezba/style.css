@@ -1,0 +1,35 @@
+table.GeneratedTable {
+            width: 100%;
+            background-color: #ffffff;
+            border-collapse: collapse;
+            border-width: 2px;
+            border-color: #ffcc00;
+            border-style: solid;
+            color: #000000;
+        }
+    
+table.GeneratedTable td,
+table.GeneratedTable th {
+            border-width: 2px;
+            border-color: #ffcc00;
+            border-style: solid;
+            padding: 3px;
+        }
+    
+table.GeneratedTable thead {
+            background-color: #ffee00;
+        }
+
+form>* {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 5px;
+    width: 100px;
+    background-color: #ffcc00;
+    border-radius: 20px;
+    border-color: #000000;
+    border-style: dotted;
+}
